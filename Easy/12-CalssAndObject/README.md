@@ -28,6 +28,7 @@ In the void Student::input() function, you must read  scores from stdin and save
 ## Constraints
 
 1 <= n <= 100
+
 0 <= examscore <= 50
 
 ## Output Format
