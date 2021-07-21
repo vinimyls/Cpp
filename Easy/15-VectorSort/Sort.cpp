@@ -17,9 +17,10 @@ int main() {
         v.push_back(actual);
     }
     
+    sort(v.begin(),v.end());
+    
     for(int i; i< n; i++)
     {
-        sort(v.begin(),v.end());
         cout << v[i] << " ";
     }
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
