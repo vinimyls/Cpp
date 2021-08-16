@@ -12,6 +12,8 @@ There are three levels of difficulty
 
 ## Games SFML
 
+Install [SFML](sfml-dev.org)
+
 * [01 Tetris](https://github.com/vinimyls/Cpp/tree/main/01%20Tetris)
 
 
